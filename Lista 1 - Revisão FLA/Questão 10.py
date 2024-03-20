@@ -1,7 +1,7 @@
-#a=-1 b=20 c=--96
-#delta = b^2-4*a*c
-#x = -b +/-
+# 10.Crie um programa que recebe os coeficientes (a,b,c) de uma equação
+# quadrática ax e calcula suas raízes reais, se existirem.
 
+#a=-1 b=20 c=--96
 
 print('Primeiro digite o valor de "a", "b" e "c" na equação: ')
 a = int(input('Valor de "a": '))
